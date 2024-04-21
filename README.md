@@ -1,8 +1,15 @@
-# React + Vite
+# News API frontend  
+A web application built using React and Tailwind CSS, designed to fetch news with a stylish user interface and enhanced user experience.It provides advanced search options to help users find news articles relevant to their specific interests quickly and efficiently.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+- Fetches news from News API.
+- Interactive UI and UX.
+- Advanced search options for precise article discovery.  
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Prerequites
+**[Node js](https://nodejs.org/en/download), [Git](https://git-scm.com/downloads)**
+# Installation
+1. Clone the repository: `git clone https://github.com/zprakash/News-API-frontend.git`
+2. Navigate to directory: `cd News-API-frontend`
+3. Insall dependencies: `npm install`
+4. Start server: `npm start`
