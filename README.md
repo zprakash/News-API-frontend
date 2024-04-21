@@ -13,3 +13,5 @@ A web application built using React and Tailwind CSS, designed to fetch news wit
 2. Navigate to directory: `cd News-API-frontend`
 3. Insall dependencies: `npm install`
 4. Start server: `npm run dev`
+
+#### `Note: Make sure to run backend`
